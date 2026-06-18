@@ -10,3 +10,10 @@
 - Nirvana;
 - Goorilaz.
 - Slipknot
+
+## Cada banda terá a sua
+- história contada;
+- informações importantes como integrantes e outra coisas;
+- shows que marcaram suas histórias;
+- curiosidades;
+- pode também haver um quiz relacionado a cada banda.
