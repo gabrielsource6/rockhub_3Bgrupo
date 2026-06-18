@@ -19,4 +19,4 @@
 - pode também haver um quiz relacionado a cada banda.
 
 # Evento Internacionais
-### Seria uma espécie de agenda de cada banda.
+### Seria uma espécie de agenda para cada banda.
