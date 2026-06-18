@@ -18,5 +18,11 @@
 - curiosidades;
 - pode também haver um quiz relacionado a cada banda.
 
+## Há quem usaria este site/app
+# Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
+
+## Ideia interessante
+# 
+
 # Evento Internacionais
 ### Seria uma espécie de agenda para cada banda.
