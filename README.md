@@ -9,3 +9,4 @@
 - Metálica
 - Nirvana;
 - Goorilaz.
+- Slipknot
