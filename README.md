@@ -6,4 +6,5 @@
 - guns n' roses;
 - Linkin Park;
 - Metálica
-- Nirvana.
+- Nirvana;
+- Goorilaz.
