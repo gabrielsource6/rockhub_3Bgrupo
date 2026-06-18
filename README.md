@@ -16,13 +16,11 @@
 - informações importantes como integrantes e outra coisas;
 - shows que marcaram suas histórias;
 - curiosidades;
-- pode também haver um quiz relacionado a cada banda.
+- pode também haver um quiz relacionado a cada banda;
+- Melhores músicas de cada e instrumentais das mesmas.
 
 ## Há quem usaria este site/app
-# Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
-
-## Ideia interessante
-# 
+### Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
 
 # Evento Internacionais
 ### Seria uma espécie de agenda para cada banda.
