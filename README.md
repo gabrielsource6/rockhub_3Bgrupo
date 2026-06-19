@@ -1,5 +1,5 @@
 # rockhub_3Bgrupo
-### *não necessariamente é de rock*
+### *Não necessariamente é de rock*
 
 ## Catálogo de bandas:
 - Imagine Dragons;
