@@ -1,7 +1,7 @@
 # rockhub_3Bgrupo
 ### *Não necessariamente é de rock*
 
-## Catálogo de bandas:
+## Catálogo de bandas e suas melhores músicas:
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
 - Blur;
