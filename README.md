@@ -7,7 +7,7 @@
 - Blur;
   > Song 2, Bugman, Death of Party, Stereotypes.
 - Linkin Park;
-  > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive.
+  > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive, Numb.
 - Metálica
   > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
 - Nirvana;
