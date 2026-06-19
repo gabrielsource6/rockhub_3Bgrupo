@@ -13,7 +13,7 @@
 - Nirvana;
   > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver.
 - Gorillaz;
-  > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes, DARE, Stylo, Kids in Guns, Tranz, 19-2000, Silent Running, Last Living Souls.
+  > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes, DARE, Stylo, Kids in Guns, Tranz, 19-2000, Last Living Souls.
 - AC/DC;
   > Back in Black, T.N.T, Thunderstrack, Highwey to Hell, Hells Bells, You Shook Me All Night Long, Touch too Much.
 - Led Zeppelin.
