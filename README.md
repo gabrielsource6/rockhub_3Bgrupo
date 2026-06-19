@@ -1,7 +1,7 @@
 # rockhub_3Bgrupo
 ### *não necessariamente é de rock*
 
-## Catálogo de bandas (escolha a quantide que der e também pode adicionar músicas que quiser):
+## Catálogo de bandas:
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
 - Blur;
