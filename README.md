@@ -12,7 +12,7 @@
   > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
 - Nirvana;
   > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver.
-- Goorilaz;
+- Gorillaz;
   > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes, DARE, Stylo, Kids in Guns, Tranz, 19-2000, Silent Running, Last Living Souls.
 - AC/DC;
   > Back in Black, T.N.T, Thunderstrack, Highwey to Hell, Hells Bells, You Shook Me All Night Long, Touch too Much.
