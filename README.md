@@ -1,15 +1,26 @@
 # rockhub_3Bgrupo
 ### *não necessariamente é de rock*
 
-## A ideia é fazer sobre essas bandas (escolha a quantide que der):
+## Catálogo de bandas (escolha a quantide que der e também pode adicionar músicas que quiser):
 - Imagine Dragons;
+  > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
 - Blur;
-- guns n' roses;
+  > Song 2, Bugman, Death of Party, Stereotypes.
 - Linkin Park;
+  > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive.
 - Metálica
+  > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
 - Nirvana;
-- Goorilaz.
-- Slipknot
+  > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver.
+- Goorilaz;
+  > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes.
+- AC/DC;
+  > Back in Black, T.N.T, Thunderstrack, Highwey to Hell, Hells Bells, You Shook Me All Night Long, Touch too Much.
+- Led Zeppelin.
+  > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying.
+- guns n' roses;
+  > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden.
+- Slipknot;
 
 ## Cada banda terá a sua
 - história contada;
@@ -23,4 +34,4 @@
 ### Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
 
 # Evento Internacionais
-### Seria uma espécie de agenda para cada banda.
+### Seria uma espécie de agenda para cada banda (*colocaremos quando der*)
