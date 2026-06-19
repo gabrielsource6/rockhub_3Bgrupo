@@ -23,7 +23,7 @@
 - Slipknot;
   > Não conheço, acho que o Alan coloca.
 
-## Cada banda terá a sua
+## Cada banda terá a sua:
 - história contada;
 - informações importantes como integrantes e outra coisas;
 - shows que marcaram suas histórias;
@@ -34,5 +34,5 @@
 ## Há quem usaria este site/app
 ### Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
 
-# Evento Internacionais
+# Evento Internacionais:
 ### Seria uma espécie de agenda para cada banda (*colocaremos quando der*)
