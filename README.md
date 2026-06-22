@@ -2,7 +2,7 @@
 ### *Não necessariamente é de rock*
 
 ## Catálogo de bandas e suas melhores músicas:
-<img width="40" height="40" alt="banda" src="https://github.com/user-attachments/assets/a384ae0e-4805-4ab8-969e-90ea6da54a22" />
+- <img width="40" height="40" alt="banda" src="https://github.com/user-attachments/assets/a384ae0e-4805-4ab8-969e-90ea6da54a22" />
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
 - Blur;
