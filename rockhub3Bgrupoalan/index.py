@@ -1,4 +1,5 @@
 # Este é o sistema criado para testar sua sabedoria em relação a cada banda, entre 55-58 questões cada.
+# As próximas atualizações vai ser a opção de jogar novamente ao terminar o quiz e um temporizador para tornar as questões mais desafiadoras.
 import random
 import os
 import unicodedata
