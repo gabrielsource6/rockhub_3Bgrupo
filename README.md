@@ -21,14 +21,14 @@
 - guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
 - Slipknot;
-  > Não conheço, acho que o Alan coloca.
+  > Wait and Bleed, Duality, Spit It Out, People = Shit, Disasterpiece, The Heretic Anthem, Psychosocial, The Devil in I, Unsainted, Before I Forget, Left Behind, Custer, Snuff.
 
 ## Cada banda terá a sua:
-- história contada;
-- informações importantes como integrantes e outra coisas;
-- shows que marcaram suas histórias;
-- curiosidades;
-- pode também haver um quiz relacionado a cada banda;
+- História contada;
+- Informações importantes como integrantes e outra coisas;
+- Shows que marcaram suas histórias;
+- Curiosidades;
+- Quiz relacionado a cada banda;
 - Melhores músicas de cada e instrumentais das mesmas.
 
 ## Há quem usaria este site/app
