@@ -5,6 +5,9 @@
 
 <h3 align="center"><i>Não necessariamente é de rock</i></h3>
 
+## Aqui em __METAL STORM__ você
+### Aprende e escuta desde clássicos do rock ao metal pesado, saber o passado de cada composição garanto que irá deixar a sua vida mais daora, ouça e *sinta-se bem*, pois é onde sobre bandas que o seu mundo se transforma. 
+
 ## Catálogo de bandas e suas melhores músicas:
 
 - Imagine Dragons;
