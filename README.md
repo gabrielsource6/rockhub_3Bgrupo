@@ -10,6 +10,7 @@
 
 ## Catálogo de bandas e suas melhores músicas:
 
+<img src="imagens/teste.png" width="50%">
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors, Demons, Thander, Whatever It Takes, Bad Liar, It's Time, On Top of the World.
 - Blur;
@@ -25,7 +26,7 @@
 - AC/DC;
   > Back in Black, T.N.T, Thunderstrack, Highwey to Hell, Hells Bells, You Shook Me All Night Long, Touch too Much.
 - Led Zeppelin.
-  > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying.
+  > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying, How many More Times.
 - guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
 - Slipknot.
