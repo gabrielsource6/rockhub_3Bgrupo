@@ -13,13 +13,13 @@
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
 - Blur;
-  > Song 2, Bugman, Death of Party, Stereotypes.
+  > Song 2, Bugman, Death of Party, Stereotypes, Parklife, Coffee & TV, Beetlebum, Tender, Country House, The Universal, For Tomorrow, Charmless Man.
 - Linkin Park;
   > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive, Numb.
 - Metalica
   > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
 - Nirvana;
-  > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver.
+  > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver, Frances Farmer Will Have Her Revenge on Seattle, In Bloom, Territorial Pissings.
 - Gorillaz;
   > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes, DARE, Stylo, Kids in Guns, Tranz, 19-2000, Last Living Souls.
 - AC/DC;
