@@ -1,6 +1,6 @@
 # rockhub_3Bgrupo
 <p align="center">
-<img src="imagens/tempestade-metalica.png" width="50%">
+<img src="imagens/tempestade_metalica.png" width="50%">
 </p>
 
 ### *Não necessariamente é de rock*
