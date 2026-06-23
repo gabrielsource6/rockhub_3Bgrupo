@@ -40,7 +40,7 @@
 - Melhores músicas de cada e instrumentais das mesmas.
 
 ## Há quem usaria este site/app
-### Fãs de Rock, músicos experimentes quanto iniciantes e as pessoas que curtem essa cultura musical;
+### O Metal Storm foi desenvolvido para fãs de rock e metal, músicos experientes ou iniciantes e para qualquer pessoa que goste de explorar a cultura musical. Também é uma ótima opção para quem deseja descobrir novas bandas, testar seus conhecimentos e aprender mais sobre diferentes artistas e estilos musicais.
 
 # Evento Internacionais:
-### Seria uma espécie de agenda para cada banda (*colocaremos quando der*)
+### Seria uma espécie de agenda para cada banda (*colocaremos quando der*).
