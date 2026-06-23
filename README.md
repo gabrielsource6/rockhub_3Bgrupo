@@ -3,7 +3,7 @@
 <img src="imagens/tempestade_metalica.png" width="50%">
 </p>
 
-### *Não necessariamente é de rock*
+<h3 align="center"><i>Não necessariamente é de rock</i></h3>
 
 ## Catálogo de bandas e suas melhores músicas:
 
