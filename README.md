@@ -15,41 +15,41 @@
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors, Demons, Thander, Whatever It Takes, Bad Liar, It's Time, On Top of the World.
   
-  <img src="imagens/blur.webp" width="50%">
+<img src="imagens/blur.webp" width="50%">
   
 - Blur;
   > Song 2, Bugman, Death of Party, Stereotypes, Parklife, Coffee & TV, Beetlebum, Tender, Country House, The Universal, For Tomorrow, Charmless Man.
 - Linkin Park;
   > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive, Numb.
   
-  <img src="imagens/metalica.jpg" width="50%">
+<img src="imagens/metalica.jpg" width="50%">
   
 - Metalica
   > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
   
-  <img src="imagens/nirvana.jpg" width="50%">
+<img src="imagens/nirvana.jpg" width="50%">
   
 - Nirvana;
   > Smells like Teen Spirit, Rape Me, Very Ape, Pennyroyal Tea, Tourett's, Sappy, School, Sliver, Frances Farmer Will Have Her Revenge on Seattle, In Bloom, Territorial Pissings.
   
-  <img src="imagens/gorillaz.jpg" width="50%">
+<img src="imagens/gorillaz.jpg" width="50%">
   
 - Gorillaz;
   > Feel Good Inc, Cracker Sland, Clint Eastwood, New Gold, Rhinestone eyes, DARE, Stylo, Kids in Guns, Tranz, 19-2000, Last Living Souls.
   
-  <img src="imagens/acdc.webp" width="50%">
+<img src="imagens/acdc.webp" width="50%">
   
 - AC/DC;
   > Back in Black, T.N.T, Thunderstrack, Highwey to Hell, Hells Bells, You Shook Me All Night Long, Touch too Much.
   
-  <img src="imagens/led-zeppelin.avif" width="50%">
+<img src="imagens/led-zeppelin.avif" width="50%">
   
 - Led Zeppelin.
   > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying, How many More Times.
 - guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
   
-  <img src="imagens/slipknot.jpg" width="50%">
+<img src="imagens/slipknot.jpg" width="50%">
   
 - Slipknot.
   > Wait and Bleed, Duality, Spit It Out, People = Shit, Disasterpiece, The Heretic Anthem, Psychosocial, The Devil in I, Unsainted, Before I Forget, Left Behind, Custer, Snuff.
