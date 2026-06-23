@@ -11,7 +11,7 @@
 ## Catálogo de bandas e suas melhores músicas:
 
 - Imagine Dragons;
-  > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors.
+  > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors, Demons, Thander, Whatever It Takes, Bad Liar, It's Time, On Top of the World.
 - Blur;
   > Song 2, Bugman, Death of Party, Stereotypes, Parklife, Coffee & TV, Beetlebum, Tender, Country House, The Universal, For Tomorrow, Charmless Man.
 - Linkin Park;
