@@ -1,4 +1,5 @@
 # rockhub_3Bgrupo
+![Logo do projeto](imagens/tempestademetalica.jpg)
 ### *Não necessariamente é de rock*
 
 ## Catálogo de bandas e suas melhores músicas:
