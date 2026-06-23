@@ -52,7 +52,7 @@
 
 <img src="imagens/guns-n-roses.webp" width="50%">
   
-- guns n' roses;
+- Guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
   
 <img src="imagens/slipknot.jpg" width="50%">
