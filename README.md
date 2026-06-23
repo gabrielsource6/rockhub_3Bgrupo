@@ -19,6 +19,9 @@
   
 - Blur;
   > Song 2, Bugman, Death of Party, Stereotypes, Parklife, Coffee & TV, Beetlebum, Tender, Country House, The Universal, For Tomorrow, Charmless Man.
+  
+<img src="imagens/linkinpark.avif" width="50%">
+  
 - Linkin Park;
   > In the End, Faint, QWERTY, One Stap Closed, Lost, Wesside, Heavy Is the Crown, Massive, Numb.
   
@@ -46,6 +49,9 @@
   
 - Led Zeppelin.
   > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying, How many More Times.
+
+<img src="imagens/guns-n-roses.webp" width="50%">
+  
 - guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
   
