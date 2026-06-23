@@ -27,7 +27,7 @@
   
 <img src="imagens/metalica.jpg" width="50%">
   
-- Metalica
+- Metallica
   > Master of Puppets, Lepper Massiah, Damage,Inc, Orion, The Thing That Should Not be, Enter Sandman.
   
 <img src="imagens/nirvana.jpg" width="50%">
