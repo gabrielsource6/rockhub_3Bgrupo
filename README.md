@@ -25,7 +25,7 @@
   > Immigrant Song, Rock and Roll, When The Levee Breaks, Stairway to Heaven, Kashmir, Black Dog, Achilles Last Stand, The Rover, Heartbreaker, Nobody's Fault but Mine, In My Time of Dying.
 - guns n' roses;
   > Sweet Child O' Mine, Paradise City, You Could Be Mine, Welcome To The Jungle, Nightrain, It's So Easy, Out Ta Get Me, My Michelle, Garden of Eden, Perfect Crime, Back Off Bitch, Shotgun Blues, Bad Obsession, Locomotive.
-- Slipknot;
+- Slipknot.
   > Wait and Bleed, Duality, Spit It Out, People = Shit, Disasterpiece, The Heretic Anthem, Psychosocial, The Devil in I, Unsainted, Before I Forget, Left Behind, Custer, Snuff.
 
 ## Cada banda terá a sua:
