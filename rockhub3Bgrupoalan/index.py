@@ -3648,9 +3648,15 @@ while True:
         # ⏱️ início do tempo da pergunta
         inicio_pergunta = time.time()
 
-        escolha = input(
-            "\nEscolha uma alternativa (A-D): "
-        ).strip().upper()
+        while True:
+            escolha = input(
+                "\nEscolha uma alternativa (A-D): "
+            ).strip().upper()
+
+            if escolha in ["A", "B", "C", "D"]:
+                break
+
+            print("Digite apenas A, B, C ou D.")
 
         # ⏱️ tempo gasto na resposta
         tempo_resposta = time.time() - inicio_pergunta
@@ -3663,7 +3669,7 @@ while True:
 
             # ⚡ bônus por velocidade
             if tempo_resposta <= 5:
-                print("(⚡) Acertou muito rápido! +2 pontos")
+                print("⚡ Acertou muito rápido! +2 pontos")
                 pontos += 2
             else:
                 print("( ͡° ͜ʖ ͡°) Você acertou!")
@@ -3686,22 +3692,31 @@ while True:
     print(f"\n⏱️ Tempo total: {tempo_total:.1f} segundos")
 
     # 🏁 FINAL DO JOGO + RANKING
-    nome = input("\n(⌐■_■) Digite seu nome: ")
+    while True:
+        nome = input(
+            "\n(⌐■_■) Digite seu nome: "
+        ).strip()
 
-    ranking.append((nome, pontos))
+        if nome:
+            break
+
+        print("Você precisa digitar um nome.")
+
+    ranking.append((nome, pontos, tempo_total))
 
     ranking.sort(
-        key=lambda x: x[1],
-        reverse=True
+        key=lambda x: (-x[1], x[2])
     )
 
     print("\n===(✧ω✧) RANKING (✧ω✧)===")
 
-    for i, (nome, pontos) in enumerate(
+    for i, (nome, pontos, tempo) in enumerate(
         ranking,
         start=1
     ):
-        print(f"{i}º {nome} - {pontos} pontos")
+        print(
+            f"{i}º {nome} - {pontos} pontos - "
+            f"{tempo:.1f} segundos")
 
     jogar_novamente = input(
         "\nDeseja jogar novamente? [s] ╭∩╮( •̀_•́ )╭∩╮ [n]: "
