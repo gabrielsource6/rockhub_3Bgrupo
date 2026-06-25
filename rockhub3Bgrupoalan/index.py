@@ -3554,24 +3554,23 @@ def limpar_tela():
     os.system("cls" if os.name == "nt" else "clear")
 
 
-while True:
-    def escolher_banda_musical():
+def escolher_banda_musical():
 
-        print("=" * 43)
-        print("┴┬┴┤(･_├┬┴┬┴ ESCOLHA UMA BANDA PARA COMEÇAR:")
-        print("=" * 43)
+    print("=" * 43)
+    print("┴┬┴┤(･_├┬┴┬┴ ESCOLHA UMA BANDA PARA COMEÇAR:")
+    print("=" * 43)
 
-        print("1 - Imagine Dragons")
-        print("2 - Metallica")
-        print("3 - Gorillaz")
-        print("4 - Blur")
-        print("5 - Linkin Park")
-        print("6 - Nirvana")
-        print("7 - Led Zeppelin")
-        print("8 - AC/DC")
-        print("9 - Slipknot")
-        print("10 - Guns N' Roses")
-        print()
+    print("1 - Imagine Dragons")
+    print("2 - Metallica")
+    print("3 - Gorillaz")
+    print("4 - Blur")
+    print("5 - Linkin Park")
+    print("6 - Nirvana")
+    print("7 - Led Zeppelin")
+    print("8 - AC/DC")
+    print("9 - Slipknot")
+    print("10 - Guns N' Roses")
+    print()
 
     while True:
         escolha = input("(°o°) Escolha uma opção: ")
@@ -3600,8 +3599,10 @@ while True:
             print("Opção inválida.\n")
 
 
-    # 🏆 RANKING GLOBAL (dentro da execução)
-    ranking = []
+# 🏆 RANKING GLOBAL
+ranking = []
+
+while True:
 
     # 🧠 controle de repetição
     perguntas_usadas = set()
@@ -3635,14 +3636,20 @@ while True:
         print("\n" + questao["pergunta"])
         print()
 
-        for i, alternativa in enumerate(alternativas, start=1):
-            print(f"{i} - {alternativa}")
+        letras = ["A", "B", "C", "D"]
 
-        escolha = input("\nEscolha uma alternativa (1-4): ")
+        for i, alternativa in enumerate(alternativas):
+            print(f"{letras[i]} - {alternativa}")
 
-        indice_correto = alternativas.index(questao["correta"]) + 1
+        escolha = input(
+            "\nEscolha uma alternativa (A-D): "
+        ).strip().upper()
 
-        if escolha.isdigit() and int(escolha) == indice_correto:
+        indice_correto = alternativas.index(
+            questao["correta"]
+        )
+
+        if escolha in letras and letras[indice_correto] == escolha:
             print("( ͡° ͜ʖ ͡°) Você acertou!")
             pontos += 1
         else:
@@ -3655,27 +3662,33 @@ while True:
 
         input("Pressione ENTER para continuar...")
 
-
     # 🏁 FINAL DO JOGO + RANKING
     nome = input("\n(⌐■_■) Digite seu nome: ")
+
     ranking.append((nome, pontos))
 
-    ranking.sort(key=lambda x: x[1], reverse=True)
+    ranking.sort(
+        key=lambda x: x[1],
+        reverse=True
+    )
 
     print("\n===(✧ω✧) RANKING (✧ω✧)===")
-    for i, (nome, pontos) in enumerate(ranking, start=1):
+
+    for i, (nome, pontos) in enumerate(
+        ranking,
+        start=1
+    ):
         print(f"{i}º {nome} - {pontos} pontos")
 
     jogar_novamente = input(
-        "\n Deseja jogar novamente? [s] ╭∩╮( •̀_•́ )╭∩╮ [n]: "
+        "\nDeseja jogar novamente? [s] ╭∩╮( •̀_•́ )╭∩╮ [n]: "
     ).strip().lower()
 
-while jogar_novamente not in ["s", "n"]:
-    jogar_novamente = input("Digite apenas 's' ou 'n': ").lower()
+    while jogar_novamente not in ["s", "n"]:
+        jogar_novamente = input(
+            "Digite apenas 's' ou 'n': "
+        ).strip().lower()
 
-if jogar_novamente == "s":
-    # reinicia o quiz
-    pass
-elif jogar_novamente == "n":
-    print("(☞ﾟヮﾟ)☞ Obrigado por jogar!")
-    exit()
+    if jogar_novamente == "n":
+        print("(☞ﾟヮﾟ)☞ Obrigado por jogar!")
+        break
