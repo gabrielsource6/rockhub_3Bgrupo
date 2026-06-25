@@ -3670,12 +3670,12 @@ while True:
         "\n Deseja jogar novamente? [s] ╭∩╮( •̀_•́ )╭∩╮ [n]: "
     ).strip().lower()
 
-    if jogar_novamente == "s":
-    break  # reinicia o quiz
+while jogar_novamente not in ["s", "n"]:
+    jogar_novamente = input("Digite apenas 's' ou 'n': ").lower()
 
-    elif jogar_novamente == "n":
-        print("(☞ﾟヮﾟ)☞ Obrigado por jogar!")
-        exit()
-
-    else:
-        print("Digite apenas 's' ou 'n'.")
+if jogar_novamente == "s":
+    # reinicia o quiz
+    pass
+elif jogar_novamente == "n":
+    print("(☞ﾟヮﾟ)☞ Obrigado por jogar!")
+    exit()
