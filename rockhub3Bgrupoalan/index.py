@@ -1,8 +1,9 @@
 # Este é o sistema criado para testar sua sabedoria em relação a cada banda, entre 55-58 questões cada.
-# A próxima atualização vai ser um temporizador para tornar as questões mais desafiadoras.
+
 import random
 import os
 import unicodedata
+import time
 
 Questoes = {
     "Imagine Dragons": [
@@ -3612,6 +3613,9 @@ while True:
     vidas = 3
     pontos = 0
 
+    # ⏱️ início do cronômetro do quiz
+    inicio_quiz = time.time()
+
     # pega todas perguntas da banda
     todas_perguntas = Questoes[banda_escolhida]
 
@@ -3641,17 +3645,30 @@ while True:
         for i, alternativa in enumerate(alternativas):
             print(f"{letras[i]} - {alternativa}")
 
+        # ⏱️ início do tempo da pergunta
+        inicio_pergunta = time.time()
+
         escolha = input(
             "\nEscolha uma alternativa (A-D): "
         ).strip().upper()
+
+        # ⏱️ tempo gasto na resposta
+        tempo_resposta = time.time() - inicio_pergunta
 
         indice_correto = alternativas.index(
             questao["correta"]
         )
 
         if escolha in letras and letras[indice_correto] == escolha:
-            print("( ͡° ͜ʖ ͡°) Você acertou!")
-            pontos += 1
+
+            # ⚡ bônus por velocidade
+            if tempo_resposta <= 5:
+                print("(⚡) Acertou muito rápido! +2 pontos")
+                pontos += 2
+            else:
+                print("( ͡° ͜ʖ ͡°) Você acertou!")
+                pontos += 1
+
         else:
             print("(╬ Ò﹏Ó) Você errou!")
             vidas -= 1
@@ -3661,6 +3678,12 @@ while True:
                 break
 
         input("Pressione ENTER para continuar...")
+
+    # ⏱️ fim do quiz
+    fim_quiz = time.time()
+    tempo_total = fim_quiz - inicio_quiz
+
+    print(f"\n⏱️ Tempo total: {tempo_total:.1f} segundos")
 
     # 🏁 FINAL DO JOGO + RANKING
     nome = input("\n(⌐■_■) Digite seu nome: ")
