@@ -13,6 +13,7 @@
 <p align="center">
 <img src="imagens/imagine-dragons.avif" width="50%">
 </p>
+
 - Imagine Dragons;
   > Bones, Enemy, Eyes Closed, Natural, Believe, Radioctive, warriors, Demons, Thander, Whatever It Takes, Bad Liar, It's Time, On Top of the World.
 
